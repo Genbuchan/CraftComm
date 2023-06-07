@@ -1,0 +1,7 @@
+name: CraftComm
+version: 0.1.0
+author: Genbuchan
+description: This plugin provides to help communications each others.
+api-version: 1.19
+folia-supported: true
+main: studio.genbu.mcplugins.craftcomm.CraftComm
